@@ -1,0 +1,3 @@
+node_python_consumer1/node_modules/*
+node_python_resource_server/node_modules/*
+node_python_resource_server/WinPython-32bit-3.5.4.1Zero/*
